@@ -1,0 +1,122 @@
+{
+    "marioCards": [
+        {
+            "id": 1,
+            "name": "Eevee",
+            "rarity": "normal",
+            "hp": "55",
+            "attack": "55",
+            "defense": "50",
+            "specialAttack": "45",
+            "specialDefense": "65",
+            "speed": "55",
+            "ability": "Run Away",
+            "hiddenAbility": "Anticipation"
+        },
+        {
+            "id": 2,
+            "name": "Vaporeon",
+            "rarity": "water",
+            "hp": "130",
+            "attack": "65",
+            "defense": "60",
+            "specialAttack": "110",
+            "specialDefense": "95",
+            "speed": "65",
+            "ability": "Absorb",
+            "hiddenAbility": "Hydration"
+        },
+        {
+            "id": 3,
+            "name": "Jolteon",
+            "rarity": "electric",
+            "hp": "65",
+            "attack": "65",
+            "defense": "60",
+            "specialAttack": "110",
+            "specialDefense": "95",
+            "speed": "130",
+            "ability": "Volt Absorb",
+            "hiddenAbility": "Quick Feet"
+        },
+        {
+            "id": 4,
+            "name": "Flareon",
+            "rarity": "fire",
+            "hp": "65",
+            "attack": "130",
+            "defense": "60",
+            "specialAttack": "95",
+            "specialDefense": "110",
+            "speed": "65",
+            "ability": "Flash Fire",
+            "hiddenAbility": "Guts"
+        },
+        {
+            "id": 5,
+            "name": "Espeon",
+            "rarity": "psychic",
+            "hp": "65",
+            "attack": "65",
+            "defense": "60",
+            "specialAttack": "130",
+            "specialDefense": "95",
+            "speed": "110",
+            "ability": "Synchronize",
+            "hiddenAbility": "Magic Bounce"
+        },
+        {
+            "id": 6,
+            "name": "Umbreon",
+            "rarity": "dark",
+            "hp": "95",
+            "attack": "65",
+            "defense": "110",
+            "specialAttack": "60",
+            "specialDefense": "130",
+            "speed": "65",
+            "ability": "Synchonize",
+            "hiddenAbility": "Inner Focus"
+        },
+        {
+            "id": 7,
+            "name": "Leafeon",
+            "rarity": "grass",
+            "hp": "65",
+            "attack": "110",
+            "defense": "130",
+            "specialAttack": "60",
+            "specialDefense": "65",
+            "speed": "95",
+            "ability": "Leaf Guard",
+            "hiddenAbility": "Chlorophyll"
+        },
+        {
+            "id": 8,
+            "name": "Glaceon",
+            "rarity": "ice",
+            "hp": "65",
+            "attack": "60",
+            "defense": "110",
+            "specialAttack": "130",
+            "specialDefense": "95",
+            "speed": "65",
+            "ability": "Snow Cloak",
+            "hiddenAbility": "Ice Body"
+        },
+        {
+            "id": 9,
+            "name": "Sylveon",
+            "rarity": "fairy",
+            "hp": "95",
+            "attack": "65",
+            "defense": "65",
+            "specialAttack": "110",
+            "specialDefense": "130",
+            "speed": "60",
+            "ability": "Cute Charm",
+            "hiddenAbility": "Pixilate"
+        }
+
+    ]
+}
